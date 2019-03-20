@@ -193,4 +193,4 @@ For example, if someone sends the message, “tomorrow at 2pm” or “2 days be
 
 If you're experiencing any issues, or your not sure where to start, don't be afraid to [get in touch](mailto:support@thebotplatform.com).
 
-Including the word Banana
+Including the word Banana and apples
